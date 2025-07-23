@@ -4,6 +4,7 @@ from typing import Dict, Any, Optional
 import socket
 
 
+
 class Asycube:
     def __init__(self, ip: str = "192.168.127.254", port: int = 4001) -> None:
         """
